@@ -1,0 +1,7 @@
+[
+  {
+    "gravity": 10,
+    "fps": 60,
+    "pointPerMove":1
+  }
+]
